@@ -182,9 +182,9 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-**Shanmukha Rami Reddy**
+**Navadeep Reddy**
 
-B.Tech Final Year Student
+B.Tech Third Year Student
 
 Annamacharya Institute of Technology and Sciences
 

@@ -91,7 +91,7 @@ python login.py
 
 ---
 
-## 🔑 Default Login Credentials
+## 🔑 Default Login Credential
 
 **Username**
 
